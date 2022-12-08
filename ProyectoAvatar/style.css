@@ -1,0 +1,30 @@
+*{
+    background-color: rgb(8, 11, 61);
+  
+
+}
+
+.Facebook{
+    color:white;
+    background-color: green;
+    border-radius: 20px 20px 20px 20px;
+    border-color: green;
+    width: 290px;
+    height: 50px;
+    font-weight: 700;
+    font-size:larger;
+    font-stretch:semi-expanded;
+    margin-left: 610px;
+    margin-top: 20px;
+   
+}
+
+.avatar{
+    margin-top: 110px;
+    width: 250px;
+    height: 250px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-left: 630px;
+} 
